@@ -13,8 +13,3 @@ In memory of the homelan 73
 | 192.168.73.72 | Element |
 | 192.168.73.88 | Gar |
 | 192.168.73.96 | Quigon |
-
-zareka 55
-| ip | user |
-|---|---|
-| 192.168.55.73 | Andes |
