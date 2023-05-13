@@ -14,4 +14,4 @@ In memory of the homelan 73
 | 192.168.73.88 | Gar |
 | 192.168.73.96 | Quigon |
 
-Write me(<anton.zhv@gmail.com>) if you were a part of the lan and you remember your ip.
+If you were a part of the lan and you remember your ip, write me(<anton.zhv@gmail.com>).
